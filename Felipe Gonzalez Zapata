@@ -72,3 +72,15 @@ categoria
 dir.principal<- "C:/Users/felip/OneDrive/Desktop/RSIG/0_Datos_v-001/"
 ruta.datos<- paste(dir.principal, "/0_Datos_v/original/vector/Mundo/Natural_Earth_quick_start/packages/Natural_Earth_quick_start/10m_physical", sep="")
 setwd(ruta.datos)
+
+
+SF
+
+Sirve para hacer pipes y cadenas de procesos
+
+
+
+sfg(geometria)+sistema de referencia(ESPG, PROG)=sfc  (st_sfc())
+
+Es un marco de datos con atributos
+
