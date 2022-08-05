@@ -64,3 +64,11 @@ categoria
 ####################################################################################################################################################################
 ####################################################################################################################################################################
 
+
+#############
+#PORQUE SE PONE ESO AL FINAL
+###############
+
+dir.principal<- "C:/Users/felip/OneDrive/Desktop/RSIG/0_Datos_v-001/"
+ruta.datos<- paste(dir.principal, "/0_Datos_v/original/vector/Mundo/Natural_Earth_quick_start/packages/Natural_Earth_quick_start/10m_physical", sep="")
+setwd(ruta.datos)
