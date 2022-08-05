@@ -84,3 +84,5 @@ sfg(geometria)+sistema de referencia(ESPG, PROG)=sfc  (st_sfc())
 
 Es un marco de datos con atributos
 
+Hay que dropear la geometria para analizar los datos
+
