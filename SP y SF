@@ -1,0 +1,21 @@
+#Explorar características espaciales sp
+mapaSP
+class(mapaSP)
+str (mapaSP)
+summary(mapaSP)
+x11()
+plot(mapaSP)    
+mapaSP@proj4string
+bbox(mapaSP)
+coordinates(mapaSP)
+geometry(mapaSP)
+
+#Explorar características espaciales sf
+mapaSF
+class(mapaSF)
+str (mapaSF)
+summary(mapaSF)
+st_geometry(mapaSF) 
+x11()
+plot(st_geometry(mapaSF) ) # plot(mapa1$geometry )
+points(st_coordinates(mapaSF)[,1:2], col="red", pch=20)
