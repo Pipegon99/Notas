@@ -1,0 +1,12 @@
+# T #
+
+# Cree un nuevo objeto espacial de nombre : Andina.aero
+# Este nuevo objeto debe contener unicamente los aeropuertos de la región andina. 
+
+###INDEXACION# SELECCION CON BASE EN GEOMETRIAS
+
+# Cree un nuevo objeto espacial de nombre : Andina.aero.principal
+# Este nuevo objeto debe contener unicamente los aeropuertos de la región andina que son principales
+# es decir aquellos que tienen "major" en la columna type. 
+
+###SELECCION DE ATRIBUTOS
